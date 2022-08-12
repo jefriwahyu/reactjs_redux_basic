@@ -1,6 +1,6 @@
 # React JS Redux Basic
 
-<b>Membuat Web Penghitung(Increment/Decrement)</b>
+Membuat <b>Web Penghitung(Increment/Decrement) Dengan React JS Redux</b>
 
 <b>Output in browser : </b>
 
